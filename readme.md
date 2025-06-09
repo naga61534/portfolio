@@ -5,19 +5,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Linux+Enthusiast;Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
----
-
 ## 🧾 Profile Summary
 
-```yaml
-name: Naga
-title: DevOps Engineer
-summary: >
-  Passionate and detail-oriented DevOps Engineer with experience in automating deployments,
-  managing scalable infrastructure, and enabling CI/CD pipelines. Strong foundation in Linux,
-  cloud-native technologies, and observability solutions.
 
-```
+🚀 I'm a **DevOps Engineer** with over **1.6 years of experience** in building and managing robust CI/CD pipelines, cloud-native infrastructure, and containerized applications.
+
+🔧 I specialize in automation using **Python** and **Shell scripting**, and have hands-on experience with tools like **Docker**, **Kubernetes**, and a variety of **cloud platforms** including **AWS**, **Azure**, and **GCP**.
+
+🖥️ I'm also skilled in **Linux/Windows system administration**, basic development with **Go**, and infrastructure monitoring using modern **open-source DevOps stacks**.
+
+🌐 I enjoy optimizing delivery workflows, improving system reliability, and building scalable, efficient, and secure environments.
+
+---
+
+
+
+
 ## 💼 Experience
 
 <details> <summary><b>DevOps Engineer – SignalZero Technologies Pvt Ltd (January 2024 – Present)</b></summary>
@@ -56,44 +59,59 @@ and negotiating placements.
 </details> 
 
 ## 🛠️ Skills
-<details> <summary><b>DevOps Engineer – YourCompany (2023 - Present)</b></summary>
-DevOps Engineer – Skills Summary
+<details> <summary><b>☁️ Cloud & Infrastructure</b></summary>
 
-- ☁️ Cloud & Infrastructure
     - Platforms: AWS, Azure, Google Cloud Platform (GCP), Hetzner, E2E Networks
     - Deployment Environments: On-premises servers, hybrid, and multi-cloud infrastructure
 
-- ⚙️ CI/CD & DevOps Tools
+</details>
 
-    - CI/CD Pipelines: Jenkins (Job DSL, Pipelines), GitHub Actions
+<details> <summary><b>⚙️ CI/CD & DevOps Tools</b></summary>
+- CI/CD Pipelines: Jenkins (Job DSL, Pipelines), GitHub Actions
 
-    - Containerization & Orchestration: Docker, Kubernetes (Helm, manifests, NodePort, Ingress)
+- Containerization & Orchestration: Docker, Kubernetes (Helm, manifests, NodePort, Ingress)
 
-    - Artifact Management: Nexus Repository
+- Artifact Management: Nexus Repository
 
-    - Infrastructure as Code (IaC): Ansible for automation and configuration management
+- Infrastructure as Code (IaC): Ansible for automation and configuration management
 
-    - Version Control: Git, GitHub, Gitea
+- Version Control: Git, GitHub, Gitea
 
-- 📊 Monitoring & Logging
+</details> 
+
+
+
+<details> <summary><b>📊 Monitoring & Logging</b></summary>
+
 
     - Metrics & Visualization: Prometheus, Grafana
 
     - Logging & Tracing: Loki
+</details> 
 
-- 💻 Programming & Scripting
+
+
+<details> <summary><b>💻 Programming & Scripting</b></summary>
+
 
     - Languages: Python (scripts & automation), Go Basics, HTML, CSS, Basic Javascript
 
     - Databases: MongoDB, SQL, Postgres SQL
 
-- 🖥️ System & Network Administration
+</details> 
+
+
+<details> <summary><b>🖥️ System & Network Administration</b></summary>
 
     - Operating Systems: Linux (Debian, RedHat, opensuse, Arch Linux), Windows Server
 
-    - Networking: DNS configuration, VPN setup, LDAP integration
+    - Networking: DNS server setup & configuration, VPN setup, LDAP integration
 
-- 🧰 Tools for Collaboration & Documentation
+</details> 
+
+
+
+<details> <summary><b>🧰 Tools for Collaboration & Documentation</b></summary>
 
     - Self-Hosted Platforms: Rocket.Chat, Nextcloud, BookStack, Plane
 
@@ -104,6 +122,9 @@ DevOps Engineer – Skills Summary
     - Office Suites: MS Office, LibreOffice
 
 </details> 
+
+
+ 
 
 
 
@@ -158,5 +179,8 @@ DevOps Engineer – Skills Summary
 - 🗓️ *Completion Year: 2016*
 </details>
 
+
 ## 📬 Let's Connect
-<p align="center"> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://your-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </p> ``` 
+
+
+<p align="center"> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://your-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </p> 
