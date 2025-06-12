@@ -9,15 +9,14 @@
 
 ## 🧾 Profile Summary
 
-🚀 I'm a **DevOps Engineer** with over **1.6 years of experience** in building and managing robust CI/CD pipelines, cloud-native infrastructure, and containerized applications.
+DevOps Engineer with 1.6 years of experience and overall 2+ years experience for specializing in the manage-
+ment of CI/CD pipelines, containerization, and cloud infrastructure. Expertise in leveraging open-source tools for
+automation, system administration across Linux/Windows servers, and scripting with Python and Shell. Proven
+ability in optimizing cloud costs, streamlining internal processes, and administering in-house applications. Adept
+at configuring and automating environments with tools like Jenkins, Docker, Kubernetes, Terraform, and Ansible.
+Strong background in monitoring, log management, and backup solutions, ensuring high system availability and
+performance.
 
-🔧 I specialize in automation using **Python** and **Shell scripting**, and have hands-on experience with tools like **Docker**, **Kubernetes**, and cloud platforms including **AWS**, **Azure**, and **GCP**.
-
-🖥️ Skilled in **Linux/Windows system administration**, basic development with **Go**, and infrastructure monitoring using modern **open-source DevOps stacks**.
-
-🌐 Passionate about optimizing delivery workflows, improving system reliability, and building scalable, efficient, and secure environments.
-
----
 
 ## 💼 Experience
 
