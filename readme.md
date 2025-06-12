@@ -23,87 +23,117 @@ performance.
 <details>
   <summary><strong>DevOps Engineer – SignalZero Technologies Pvt Ltd (January 2024 – Present)</strong></summary>
 
-- **Automation:** Creation and maintenance of pipelines and environments (dev, test, demo).
-- **In-house Applications:** Setup and maintenance of Rocket.Chat, Plane, Gitea, BookStack, Nextcloud, DNS, LDAP, Proxmox, WireGuard, Nexus.
-- **Backup Management:** Automating backups, scheduling jobs in Airflow, cleaning, and archiving backups in S3.
-- **Monitoring:** Server, application, and domain monitoring using Prometheus, Loki for logs, Grafana dashboards, and alerting with AlertManager.
-- **Documentation & Cost Optimization:** Maintaining documentation in BookStack, optimizing cloud costs, and visualizing reports using Grafana and Excel.
+  <ul>
+    <li><strong>CI/CD Pipeline Alerting:</strong> Developed and maintained CI/CD pipelines with Gitea Actions and Jenkins,
+integrated SonarQube for code quality checks, and set up real-time notifications. Managed Docker deployments,
+enforced GitFlow practices, and configured Gitea branch policies for authorized users.</li>
+    <li><strong>Monitoring Log Management:</strong>Configured Prometheus, Grafana, and Loki to monitor servers, domains,
+MongoDB, RabbitMQ, and Docker containers. Created dashboards and set up alerts using AlertManager to
+ensure proactive monitoring.</li>
+    <li><strong>Data Migration Integrity</strong> Led database and application migrations across AWS, Azure, GCP, and on-
+premises environments, ensuring data integrity and minimal downtime.
+– Cloud Infrastructure Management: Managed cloud resources (AWS, Azure, GCP) including VM provision-
+ing, user permissions, CloudFront/CDN setup, and storage optimization.</li>
+    <li><strong>On-Premises Virtualization Networking:</strong> Deployed Proxmox VMs, hardened Linux (Debian) OS, and set
+up WireGuard VPN for secure access, with private DNS for internal domains.</li>
+    <li><strong>Internal Application Deployments</strong> Administered Gitea, Rocket.Chat, Plane, BookStack, Nexus, and LDAP,
+automating setups and ensuring seamless operation along with Documented processes in BookStack for team
+access.</li>
+    <li><strong>Automation Backups</strong> Automated backup scripts and scheduled tasks in Airflow, ensuring reliable backups
+stored in multiple mediums.</li>
+  </ul>
 
 </details>
+
+
+
 
 <details>
   <summary><strong>System Administrator – SignalZero Technologies Pvt Ltd (August 2023 – December 2023)</strong></summary>
 
-- **System Maintenance:** Setup and management of systems for tracking and monitoring activities.
-- **Procurement:** Acquisition of hardware and software resources for the team.
-- **User Support:** Assisting users with technical issues and troubleshooting.
-
+  <ul>
+    <li><strong>System Maintenance::</strong> Managed and monitored systems to track activities and ensure optimal performance.</li>
+    <li><strong>Procurement:</strong> Handled procurement software resources for the team.</li>
+    <li><strong>User Support:</strong> Provided technical assistance and troubleshooting to resolve issues and ensure smooth operations.</li>
+    <li><strong>OS Installation:</strong> Performed OS installations for both Windows and Linux on servers and workstations.</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Bench Sales Recruiter – Digicloud, Hyderabad, India (August 2023 – December 2023)</strong></summary>
 
-- **Candidate Engagement:** Communicating with candidates to assess skills and availability.
-- **Job Placement:** Identifying new opportunities, client outreach, relationship management, and negotiation.
-
+  <ul>
+    <li><strong>Candidate Engagement:</strong> Communicating with candidates to assess skills and availability.</li>
+    <li><strong>Job Placement:</strong> Identifying new opportunities, client outreach, relationship management, and negotiation.</li>
+  </ul>
 </details>
 
 ---
-
 ## 🛠️ Skills
 
 <details>
   <summary><strong>☁️ Cloud & Infrastructure</strong></summary>
 
-- Platforms: AWS, Azure, Google Cloud Platform (GCP), Hetzner, E2E Networks  
-- Deployment Environments: On-premises, hybrid, and multi-cloud infrastructures
+  <ul>
+    <li><strong>Cloud Providers:</strong> AWS, Azure, GCP, Hetzner, E2E Networks</li>
+    <li><strong>Virtualization & On-Prem:</strong> Proxmox</li>
+    <li><strong>Configuration & Automation:</strong> Ansible, Terraform, Shell Scripting, PowerShell</li>
+  </ul>
 
 </details>
 
 <details>
   <summary><strong>⚙️ CI/CD & DevOps Tools</strong></summary>
 
-- CI/CD Pipelines: Jenkins (Job DSL, Pipelines), GitHub Actions  
-- Containerization & Orchestration: Docker, Kubernetes (Helm, manifests, NodePort, Ingress)  
-- Artifact Management: Nexus Repository  
-- Infrastructure as Code (IaC): Ansible  
-- Version Control: Git, GitHub, Gitea  
+  <ul>
+    <li><strong>CI/CD:</strong> Jenkins, GitHub Actions</li>
+    <li><strong>Containerization:</strong> Docker, Docker Registry</li>
+    <li><strong>Orchestration:</strong> Kubernetes</li>
+    <li><strong>Code & Artifact Management:</strong> Git, GitHub, Gitea, Nexus, SonarQube</li>
+  </ul>
 
 </details>
 
 <details>
   <summary><strong>📊 Monitoring & Logging</strong></summary>
 
-- Metrics & Visualization: Prometheus, Grafana  
-- Logging & Tracing: Loki  
+  <ul>
+    <li><strong>Monitoring:</strong> Prometheus, Grafana</li>
+    <li><strong>Logging:</strong> Loki</li>
+  </ul> 
 
 </details>
 
 <details>
   <summary><strong>💻 Programming & Scripting</strong></summary>
 
-- Languages: Python (automation scripts), Go (basics), HTML, CSS, Basic JavaScript  
-- Databases: MongoDB, SQL, PostgreSQL  
+  <ul>
+    <li><strong>Languages:</strong> Python, Go, JavaScript</li>
+    <li><strong>Markup & Web:</strong> HTML, CSS, Markdown</li>
+    <li><strong>Scripting:</strong> Bash, PowerShell</li>
+  </ul>
 
 </details>
 
 <details>
   <summary><strong>🖥️ System & Network Administration</strong></summary>
 
-- Operating Systems: Linux (Debian, RedHat, openSUSE, Arch Linux), Windows Server  
-- Networking: DNS server setup/configuration, VPN setup, LDAP integration  
-
+  <ul>
+    <li><strong>Operating Systems:</strong> Linux (Debian, Red Hat, Arch, openSUSE), Windows</li>
+    <li><strong>Networking:</strong> LDAP, DNS, VPN</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>🧰 Collaboration & Documentation</strong></summary>
 
-- Self-Hosted Platforms: Rocket.Chat, Nextcloud, BookStack, Plane  
-- Collaboration & PM Tools: Jira, Slack, Teams  
-- Documentation: Markdown  
-- Office Suites: MS Office, LibreOffice  
-
+  <ul>
+    <li><strong>Tools:</strong> Nextcloud, BookStack, Rocket.Chat, Plane, Jira, Slack</li>
+    <li><strong>Office & Docs:</strong> MS Office, LibreOffice, Markdown</li>
+  </ul>
+  
 </details>
+
 
 ---
 
@@ -111,23 +141,33 @@ performance.
 
 <details>
   <summary><strong>⏳ Certified Kubernetes Administrator (CKA) – In Progress</strong></summary>
-  - The Linux Foundation
+  <ul>
+    <li>The Linux Foundation</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>✅ AWS Certified Cloud Practitioner</strong></summary>
-  - Amazon Web Services
+  <ul>
+    <li>Amazon Web Services</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>✅ Microsoft Azure Fundamentals (AZ-900)</strong></summary>
-  - Microsoft
+  <ul>
+    <li>Microsoft</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>✅ Linux Essentials, RHCSA Basics, Networking Fundamentals</strong></summary>
-  - LinkedIn Learning & Cisco
+  <ul>
+    <li>LinkedIn Learning</li>
+    <li>Cisco Networking Academy</li>
+  </ul>
 </details>
+
 
 ---
 
@@ -135,21 +175,28 @@ performance.
 
 <details>
   <summary><strong>Bachelor of Technology (B.Tech) – Computer Science</strong></summary>
-  - Andhra Loyola Institute of Engineering and Technology  
-  - Completion Year: 2024  
+  <ul>
+    <li>Andhra Loyola Institute of Engineering and Technology</li>
+    <li>Completion Year: 2024</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Intermediate – MPC</strong></summary>
-  - Sri Chaitanya Junior College  
-  - Completion Year: 2019  
+  <ul>
+    <li>Sri Chaitanya Junior College</li>
+    <li>Completion Year: 2019</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Secondary School Certificate (SSC)</strong></summary>
-  - Zilla Parishad High School (ZPHS)  
-  - Completion Year: 2016  
+  <ul>
+    <li>Zilla Parishad High School (ZPHS)</li>
+    <li>Completion Year: 2016</li>
+  </ul>
 </details>
+
 
 ---
 
