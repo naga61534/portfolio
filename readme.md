@@ -21,26 +21,34 @@ performance.
 ## 💼 Experience
 
 <details>
-  <summary><strong>DevOps Engineer – SignalZero Technologies Pvt Ltd (January 2024 – Present)</strong></summary>
+  <summary><strong>DevOps Engineer – SignalZero Technologies Pvt Ltd (August 2023 – Present)</strong></summary>
 
   <ul>
-    <li><strong>CI/CD Pipeline Alerting:</strong> Developed and maintained CI/CD pipelines with Gitea Actions and Jenkins,
-integrated SonarQube for code quality checks, and set up real-time notifications. Managed Docker deployments,
-enforced GitFlow practices, and configured Gitea branch policies for authorized users.</li>
-    <li><strong>Monitoring Log Management:</strong>Configured Prometheus, Grafana, and Loki to monitor servers, domains,
-MongoDB, RabbitMQ, and Docker containers. Created dashboards and set up alerts using AlertManager to
-ensure proactive monitoring.</li>
-    <li><strong>Data Migration Integrity</strong> Led database and application migrations across AWS, Azure, GCP, and on-
-premises environments, ensuring data integrity and minimal downtime.
-– Cloud Infrastructure Management: Managed cloud resources (AWS, Azure, GCP) including VM provision-
-ing, user permissions, CloudFront/CDN setup, and storage optimization.</li>
-    <li><strong>On-Premises Virtualization Networking:</strong> Deployed Proxmox VMs, hardened Linux (Debian) OS, and set
-up WireGuard VPN for secure access, with private DNS for internal domains.</li>
-    <li><strong>Internal Application Deployments</strong> Administered Gitea, Rocket.Chat, Plane, BookStack, Nexus, and LDAP,
-automating setups and ensuring seamless operation along with Documented processes in BookStack for team
-access.</li>
-    <li><strong>Automation Backups</strong> Automated backup scripts and scheduled tasks in Airflow, ensuring reliable backups
-stored in multiple mediums.</li>
+    <li><strong>CI/CD, Docker and Deployment Environments:</strong> Designed and maintained CI/CD pipelines using Gitea
+Actions and Jenkins. Built and pushed Docker images for microservices and deployed them to Kubernetes clusters
+in testing and production environments. Enforced GitFlow branching strategy and Gitea branch protection
+policies. Integrated SonarQube for automated code quality checks and real-time alerting.</li>
+    <li><strong>Observability and Alerting:</strong>Implemented monitoring and logging using Prometheus, Grafana, Loki, and
+AlertManager to visualize metrics and logs for MongoDB, RabbitMQ, Docker containers, and server health.</li>
+    <li><strong>Cloud and Hybrid Infrastructure:</strong> Managed resources across AWS, Azure, and GCP. Configured virtual
+machines, storage, CDN (CloudFront), and IAM roles. Conducted data migrations with minimal downtime while
+maintaining data integrity across cloud providers.</li>
+    <li><strong>Infrastructure as Code (IaC):</strong> Automated infrastructure provisioning using Terraform across cloud and local
+environments. Used Ansible for configuration management and server automation.</li>
+    <li><strong>Container Orchestration:</strong> Deployed and maintained Kubernetes clusters for internal workloads and microser-
+vices. Managed services, ingress, volumes,Helm and config maps to ensure scalable deployments.</li>
+    <li><strong>Virtualization and Networking:</strong> Set up and managed Proxmox virtual machines, hardened Debian-based
+systems, and configured secure access using WireGuard VPN and private DNS.</li>
+
+
+  <li><strong>Internal Tooling and Authentication:</strong> Deployed and maintained self-hosted tools such as Gitea, Rocket.Chat,
+Plane, BookStack, Nexus, and LDAP. Automated deployments and documented operational procedures for internal
+use.</li>
+    <li><strong>Automation and Resilience:</strong> Developed backup automation scripts and Airflow DAGs for scheduled system
+and application backups, supporting multi-location storage and disaster recovery readiness.</li>
+    <li><strong>Infrastructure Procurement and Server Administration:</strong> Procured VPS and VPN services, performed OS
+installations (Linux/Windows desktop and server), implemented server hardening best practices, and resolved
+system issues to ensure high availability and security.</li>
   </ul>
 
 </details>
@@ -48,7 +56,7 @@ stored in multiple mediums.</li>
 
 
 
-<details>
+<!-- <details>
   <summary><strong>System Administrator – SignalZero Technologies Pvt Ltd (August 2023 – December 2023)</strong></summary>
 
   <ul>
@@ -57,7 +65,7 @@ stored in multiple mediums.</li>
     <li><strong>User Support:</strong> Provided technical assistance and troubleshooting to resolve issues and ensure smooth operations.</li>
     <li><strong>OS Installation:</strong> Performed OS installations for both Windows and Linux on servers and workstations.</li>
   </ul>
-</details>
+</details> -->
 
 <details>
   <summary><strong>Bench Sales Recruiter – Digicloud, Hyderabad, India (August 2023 – December 2023)</strong></summary>
