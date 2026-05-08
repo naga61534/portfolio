@@ -1,173 +1,315 @@
-<h1 align="center">Hi 👋, I'm Naga</h1>
-<h3 align="center">🚀 DevOps Engineer | ☁️ Cloud & 🐧 Linux Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Naga Ajesh</h1>
+
+<h3 align="center">
+🚀 Cloud & DevOps Engineer | ☁️ Multi-Cloud | 🐳 Kubernetes | 🐧 Linux
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Linux+Enthusiast;Cloud+Engineer;DevOps+%7C+SRE+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Kubernetes+%7C+Docker+%7C+Terraform;Linux+%7C+Automation+%7C+Monitoring;Production+Infrastructure+%26+Platform+Engineering" />
 </p>
 
 ---
 
 ## 🧾 Profile Summary
 
-**DevOps Engineer with 2.4 years of experience** in cloud and on-premises environments, working with **AWS, Azure, and GCP**. Skilled in building and maintaining **CI/CD pipelines** using **Jenkins, Gitea, and GitHub Actions**, and in managing containerized applications with **Docker and Kubernetes**. Experienced with both **online and offline deployments**, including **GKE**, Docker-based deployments, and **air-gapped environments (GDC appliances)**. Strong in **infrastructure as code (IaC)** using **Terraform and Ansible**, and in setting up **monitoring and logging** with **Prometheus, Grafana, Loki, and Alertmanager**. Also experienced with **Proxmox, WireGuard VPN, private DNS, GPU-enabled servers**, and **internal GPT-based assistants integrated with VS Code**.
+Cloud & DevOps Engineer with 2.5+ years of experience working across cloud and on-premises environments. Experienced in AWS, Azure, GCP, Kubernetes, Docker, CI/CD automation, Linux administration, infrastructure automation, monitoring, and production operations.
+
+Skilled in Terraform, Ansible, Jenkins, GitHub Actions, Prometheus, Grafana, Loki, and Kubernetes. Worked on cloud migrations, virtualization platforms, GPU infrastructure, monitoring stacks, automation, and production deployments across internal and enterprise environments.
 
 ---
 
-## 💼 Experience
+# 🛠️ Technical Skills
 
 <details>
-  <summary><strong>DevOps Engineer – SignalZero Technologies Pvt. Ltd (August 2023 – Present)</strong></summary>
+  <summary><strong>☁️ Cloud & Virtualization</strong></summary>
 
-  <br/>
+<br/>
 
-  - **CI/CD:** Built and maintained CI/CD pipelines using **Gitea, GitHub Actions, and Jenkins** for development, testing, and production environments. Implemented **GitFlow branching** and **branch protection**. Integrated **SonarQube** for code quality and **Trivy** for container security, with alerts sent to team channels.
+- AWS
+- Azure
+- GCP
+- Proxmox
+- KVM
+- Hetzner
+- E2E Networks
 
-  - **Monitoring and Logging:** Set up monitoring and logging with **Prometheus, Grafana, Loki, and Alertmanager**. Created dashboards for visualization and managed alerts for real-time monitoring of applications, services, and infrastructure.
-
-  - **Cloud Platforms:**
-    - **AWS:** Used **EC2, S3, Glacier, EBS, EFS, VPC, subnets, Internet/NAT Gateways, Security Groups, NACLs, Route 53, IAM, ELB, Auto Scaling, Lambda, ECS, EKS, ECR, SNS, CodePipeline, CodeBuild, CodeDeploy, CodeCommit, CloudFormation, CloudWatch, CloudTrail, AWS Backup** for application hosting, automation, and resilience.
-    - **Azure:** Worked with **Virtual Machines, App Services, Blob Storage, AKS, Virtual Network (VNet), NSGs, Azure Monitor, ARM templates, Azure Key Vault** for secure application deployments.
-    - **GCP:** Used **Compute Engine, GKE, Cloud Run, instance groups, networking, storage, IAM (service accounts and Secret Manager)** with a focus on automation, security, monitoring, and container-based deployments.
-
-  - **Infrastructure as Code (IaC):** Used **Terraform** and **Ansible** to create and manage cloud and on-premises infrastructure. Wrote reusable modules, managed state files, and ensured repeatable, automated deployments.
-
-  - **Kubernetes and Containers:** Deployed and maintained **Kubernetes clusters** for internal environments and **GKE**. Worked with **Deployments, Services, Ingresses, volumes, Helm charts, ConfigMaps, Secrets, backups**, and more. Performed cluster upgrades and handled day-to-day cluster operations.
-
-  - **Virtualization and Networking:** Managed VMs on **Proxmox** (internal servers), hardened Linux servers, configured **WireGuard VPN** for secure access, and set up **private DNS** for internal domains and services.
-
-  - **Internal Tools and Backups:** Deployed and managed internal tools including **Gitea, BookStack, Nexus, MinIO, Nextcloud, HashiCorp Vault, LDAP, and DNS**. Automated deployments and backup scripts. Created **Airflow DAGs** for scheduled backups, multi-location storage, and disaster recovery.
-
-  - **GPUs and ML Workloads:** Configured **GPU-enabled servers**, installed and tuned **NVIDIA drivers**, and enabled **GPU passthrough** in Docker and Proxmox. Deployed an internal **GPT-based AI assistant** (using models such as **Qwne, CodeGemma**) similar to ChatGPT and integrated it with **VS Code** for local usage.
-
-  - **Migrations and Deployments:** Performed **VM and storage migrations** across **AWS, Azure, and GCP**. Executed multiple **online and offline deployments**, including Docker-based deployments, Kubernetes (**GKE**) deployments, and air-gapped setups using **GDC appliance environments**. Ensured monitoring and logging were enabled for all deployed applications and infrastructure.
-
-</details>
-
-
----
-
-## 🛠️ Skills
-
-<details>
-  <summary><strong>☁️ Cloud & Infrastructure</strong></summary>
-
-  <ul>
-    <li><strong>Cloud and On-Premises:</strong> AWS, Azure, GCP, Hetzner, E2E Networks, Proxmox</li>
-    <li><strong>Virtualization & On-Prem:</strong> Proxmox (VM management, internal servers)</li>
-  </ul>
-
-</details>
-
-<details>
-  <summary><strong>⚙️ DevOps, CI/CD & Containers</strong></summary>
-
-  <ul>
-    <li><strong>DevOps and CI/CD:</strong> Jenkins, Docker, Kubernetes, Nexus, Docker Registry, Git, GitHub, Gitea, SonarQube, Trivy</li>
-    <li><strong>Containerization:</strong> Docker (containers, images, registries), Docker-based deployments</li>
-    <li><strong>Orchestration:</strong> Kubernetes, GKE (deployments, services, ingresses, volumes, Helm)</li>
-  </ul>
-
-</details>
-
-<details>
-  <summary><strong>📊 Monitoring, Logging & Alerting</strong></summary>
-
-  <ul>
-    <li><strong>Monitoring:</strong> Prometheus, Grafana</li>
-    <li><strong>Logging:</strong> Loki, Dozzle</li>
-    <li><strong>Alerting:</strong> Alertmanager</li>
-  </ul> 
-
-</details>
-
-<details>
-  <summary><strong>💻 Programming, Scripting & Databases</strong></summary>
-
-  <ul>
-    <li><strong>Programming Languages:</strong> Python, Go</li>
-    <li><strong>Web & Markup:</strong> HTML, CSS, Markdown</li>
-    <li><strong>Scripting:</strong> Shell Scripting (Bash), PowerShell</li>
-    <li><strong>Databases:</strong> MongoDB, SQL, PostgreSQL</li>
-  </ul>
-
-</details>
-
-<details>
-  <summary><strong>🖥️ System & Network Administration</strong></summary>
-
-  <ul>
-    <li><strong>Operating Systems:</strong> Linux, Windows</li>
-    <li><strong>Networking & Directory:</strong> LDAP, DNS, VPN (WireGuard / OpenVPN)</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>🧰 Infrastructure as Code, Automation & Tools</strong></summary>
-
-  <ul>
-    <li><strong>Automation and IaC:</strong> Ansible, Terraform, Shell Scripting, PowerShell, Python</li>
-    <li><strong>Web Servers and Other Tools:</strong> Nginx, Caddy, Apache, Nextcloud, BookStack, MinIO, HashiCorp Vault, Airflow</li>
-  </ul>
-  
 </details>
 
 ---
 
-## 📜 Certifications
+<details>
+  <summary><strong>🐳 Containers & DevOps</strong></summary>
+
+<br/>
+
+- Docker
+- Kubernetes
+- Helm
+- Jenkins
+- GitHub Actions
+- Bitbucket Pipelines
+- Gitea
+
+</details>
+
+---
 
 <details>
-  <summary><strong>⏳ Certified Kubernetes Administrator (CKA) – In Progress</strong></summary>
-  <ul>
-    <li>The Linux Foundation</li>
-  </ul>
+  <summary><strong>⚙️ Automation & Programming</strong></summary>
+
+<br/>
+
+- Terraform
+- Ansible
+- Shell Scripting
+- Python
+- Go
+
 </details>
+
+---
+
+<details>
+  <summary><strong>📊 Monitoring & Observability</strong></summary>
+
+<br/>
+
+- Prometheus
+- Grafana
+- Loki
+- Alertmanager
+- Tempo
+- OpenTelemetry
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🔐 Networking & Security</strong></summary>
+
+<br/>
+
+- WireGuard
+- OpenVPN
+- DNS
+- LDAP
+- SSL
+- TOTP Authentication
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🖥️ Operating Systems & Platforms</strong></summary>
+
+<br/>
+
+- Linux
+- Windows
+- Ubuntu
+- Proxmox
+- KVM
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🗄️ Databases & Web Servers</strong></summary>
+
+<br/>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Nginx
+- Apache
+- Tomcat
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🧰 Other Tools</strong></summary>
+
+<br/>
+
+- Nexus
+- MinIO
+- Vault
+- Nextcloud
+- BookStack
+- Airflow
+- RustDesk
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+<details>
+  <summary><strong>🚀 DevOps Engineer — CloudBankin (Dec 2025 – May 2026)</strong></summary>
+
+<br/>
+
+### ☁️ Cloud Infrastructure
+- Managed AWS, Azure, and GCP infrastructure for production environments, deployments, IAM, and cloud resource management
+- Worked on cloud billing usage reports and infrastructure operations
+
+### 🔵 Azure Services
+- Worked on Virtual Machines, VMSS, Managed MySQL, Application Gateway, NAT Gateway, VNets, Subnets, Blob Storage, Logic Apps, and Azure CLI
+
+### 🟠 AWS Operations
+- Managed EC2, S3, VPC, RDS, CloudFront, Auto Scaling, networking, logging, monitoring, and AWS CLI operations
+
+### 🔴 GCP Operations
+- Worked on GKE, Compute Engine VMs, Instance Groups, Cloud SQL, IAM, VPC, Firewall Rules, Artifact Registry, Cloud Load Balancing, CDN, and gcloud CLI
+
+### 🐳 Kubernetes & Docker
+- Worked on Kubernetes and Docker environments for deployments, troubleshooting, maintenance, and production support
+
+### 📊 Monitoring & Observability
+- Implemented monitoring and logging using Prometheus, Grafana, Loki, Tempo, Alertmanager, OpenTelemetry, Logrotate, and SLO/SLI monitoring
+
+### 🛠️ Production Support
+- Handled production deployments, troubleshooting, backup monitoring, patching, and log monitoring activities
+
+### 📧 Google Workspace Administration
+- Managed user onboarding, email routing, domain integration, mailbox migration, email transfers, and Google Drive data transfers
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🤖 DevOps Engineer — Shadgunya Technologies Private Limited (Aug 2025 – Nov 2025)</strong></summary>
+
+<br/>
+
+### 🖥️ GPU Infrastructure
+- Configured GPU-enabled servers, NVIDIA drivers, Docker GPU runtime support, and Proxmox GPU passthrough for AI and ML workloads
+
+### 🧠 AI & ML Deployments
+- Worked on deploying Ollama, vLLM, and internal GPT-based AI assistant platforms integrated with VS Code environments
+
+### 🐳 Container Platforms
+- Managed Docker and Kubernetes (GKE) environments including deployments, Ingresses, ConfigMaps, Secrets, persistent storage, and backups
+
+### 🌐 Offline & Air-Gapped Deployments
+- Managed multiple online, offline, and air-gapped deployments for internal infrastructure and application environments
+
+### ☁️ Cloud & Infrastructure Management
+- Managed GCP cloud resources, virtual machines, networking, storage, and internal infrastructure services
+
+### 🌍 Web Hosting & Applications
+- Deployed and maintained WordPress websites and internal applications for development and production environments
+
+</details>
+
+---
+
+<details>
+  <summary><strong>⚙️ DevOps Engineer — SignalZero Technologies Pvt. Ltd. (Jan 2024 – Jul 2025)</strong></summary>
+
+<br/>
+
+### 🚀 CI/CD Pipelines
+- Built and maintained CI/CD pipelines using Jenkins, GitHub Actions, and Gitea for automated deployments and application delivery
+
+### 📊 Monitoring & Logging
+- Implemented monitoring and logging using Prometheus, Grafana, Loki, and Alertmanager
+
+### ☁️ Cloud & On-Premises Infrastructure
+- Managed both cloud and on-premises infrastructure environments across AWS, Azure, GCP, and Proxmox virtualization platforms
+
+### 🖥️ Proxmox Administration
+- Worked extensively on Proxmox virtualization including VM provisioning, networking, storage management, backups, and infrastructure maintenance
+
+### ⚙️ Infrastructure Automation
+- Used Terraform, Ansible, Shell scripting, and Python for infrastructure provisioning, configuration management, and automation
+
+### 🔐 Linux & Networking
+- Managed Linux servers, VPNs (WireGuard and OpenVPN), DNS, firewall rules, and internal infrastructure services
+
+### 💻 System Administration
+- Installed and configured Windows, Linux, Proxmox, and KVM environments for laptops, servers, and virtualization platforms
+
+### 🔄 Cloud Migration
+- Worked on cloud-to-cloud migration activities across AWS, Azure, and GCP environments
+
+</details>
+
+---
+
+# 📜 Certifications
+
+<details>
+  <summary><strong>✅ Certified Kubernetes Administrator (CKA)</strong></summary>
+
+<br/>
+
+- Linux Foundation (2025)
+
+</details>
+
+---
 
 <details>
   <summary><strong>✅ AWS Certified Cloud Practitioner</strong></summary>
-  <ul>
-    <li>Amazon Web Services (Validation ID: QV0V659CX1VEQ2C1)</li>
-  </ul>
+
+<br/>
+
+- Amazon Web Services (2023)
+
 </details>
+
+---
 
 <details>
   <summary><strong>✅ Microsoft Azure Fundamentals (AZ-900)</strong></summary>
-  <ul>
-    <li>Microsoft (Validation ID: w9PNm-H9dJ)</li>
-  </ul>
-</details>
 
-<details>
-  <summary><strong>✅ Linux, RHCSA Basics, Networking Fundamentals</strong></summary>
-  <ul>
-    <li>LinkedIn Learning</li>
-    <li>Cisco Networking Academy</li>
-  </ul>
+<br/>
+
+- Microsoft (2022)
+
 </details>
 
 ---
 
-## 🎓 Education
-
 <details>
-  <summary><strong>Bachelor of Technology (B.Tech) – Computer Science</strong></summary>
-  <ul>
-    <li>Andhra Loyola Institute of Engineering and Technology</li>
-    <li>Completion Year: 2024</li>
-  </ul>
+  <summary><strong>✅ RHCSA, Linux & Networking Certifications</strong></summary>
+
+<br/>
+
+- Cisco Networking Academy
+- LinkedIn Learning
+
 </details>
 
 ---
 
-## 📬 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:nagaajesh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/naga61534/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://naga61534.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+
+<a href="mailto:nagaajesh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/naga61534/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/naga61534">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
+
+---
+
+<h3 align="center">🚀 Building • Automating • Scaling • Monitoring</h3>
